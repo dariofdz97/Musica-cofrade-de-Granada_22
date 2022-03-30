@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (Minijuego: la música cofrade de Granada)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,7 +9,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : La música cofrade de Granada
 
 **Autor(es)** Lucía María López Peñalver y Darío Fernández del Moral
 
@@ -17,13 +17,13 @@ Univesidad de Granada
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Sones cofrades para el mundo
 
-**Hashtag**  ___
+**Hashtag** #musicacofradeGRX
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2022
 
 **Medios** (donde se tiene presencia): 
 
