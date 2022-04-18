@@ -27,10 +27,7 @@ Univesidad de Granada
 
 **Medios** (donde se tiene presencia): 
 *  :octocat: (github url) 
-* En principio contemplamos la posibilidad de tener perfiles para la promoción, el tráfico y la atención del usuario en redes sociales como Twitter e Instagram con un nombre de usuario como @musicacofradeapp; o de 
-* ... 
-
-
+* Como luego se comentará más adelante, el proyecto está pensado para una versión móvil y/o una de escritorio. Para la primera posibilidad se contempla la publicación en la Play Store y Apple Store; y para la segunda su insercción una página o portal web propias o de alguna empresa. También la idea es disponer de redes sociales para la promoción, el tráfico y la atención al usuario, ya sea desde las propias de la empresa que apoye el proyecto o desde un Twitter e Instagram propio bajo un nombre de usuario como @musicacofradeapp.
 
 --- 
 
@@ -74,8 +71,6 @@ A la hora de plantear una evaluación del proyecto, puede ser interesante el uso
 
 
 ### Conclusiones y trabajo futuro
-
-
 * Grado de consecución del proyecto 
 * Problemas identificados
 Uno de los principales problemas es la enorme cantidad de música cofrade existente hoy en día, incluso en el panorama local de Granada. Por lo tanto, esto conlleva un proceso de investigación tanto para elegir las obras cómo para saber de dónde proceden. Además, de que es un proyecto que necesita mucho la participación del usuario para que tenga sentido.
@@ -93,11 +88,6 @@ Referencias y recursos:
 * Propuestas de me
 
 (...)
-
-
-
-
-
 
 ----
 
