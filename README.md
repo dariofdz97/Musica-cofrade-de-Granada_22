@@ -26,10 +26,8 @@ Univesidad de Granada
 **Fecha** : 2022
 
 **Medios** (donde se tiene presencia): 
-
-
 *  :octocat: (github url) 
-* Twitter 
+* En principio contemplamos la posibilidad de tener perfiles para la promoción, el tráfico y la atención del usuario en redes sociales como Twitter e Instagram con un nombre de usuario como @musicacofradeapp; o de 
 * ... 
 
 
@@ -49,7 +47,6 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * @LadyDistopia (link) ...¿ por qué ?
 * (...)
 * 
-
 
 **Necesidad/oportunidad** 
 La música forma parte del día a día y evoca toda clase de sentimientos y puede asociarse a determinadas cosas de la vida. La música cofrade se escucha cada vez más fuera del ámbito de la Semana Santa o los desfiles procesionales que suceden durante el año. Como consecuencia, hoy en día este tipo de composiciones se utilizan en producciones audiovisuales o como acompañamiento mientras se realiza una actividad cotidiana. Por lo tanto, una manera de promocionarla es mediante un minijuego que, además de aportar información, rompa los estereotipos acerca de lo que se cree de las marchas (composiciones musicales) de los desfiles procesionales. En este proyecto se exponen obras musicales propias y pertenecientes al repertorio de las bandas más populares de Granada con la posibilidad de que el usuario elija si le produce una sensación de alegría o tristeza, lo que sirve también como forma de recopilación de datos para un posible estudio de campo. 
@@ -71,35 +68,23 @@ Como cualquier proyecto, es importante tener una imagen de marca a través de el
 
 En cuanto a la financiación, todo depende de si se inicia el proyecto de forma autónoma mediante la publicación de la aplicación para dispositivos móviles en la Play Store o Apple Store; o de si lo adquiere una empresa que quiera insertarlo en su web o donde estime.
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
-
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
-
-* redes sociales (...) 
-
-* publicidad: banner (... ) 
-
-* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
-
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Test con usuarios (...) 
-* ... 
-
-
-
+A la hora de plantear una evaluación del proyecto, puede ser interesante el uso de las estadísticas de la plataforma o web en la que el proyecto esté disponible. La idea es saber cuántas personas están entrando; cómo se comportan mientras y después de usar la aplicación; y extraer unos resultados para una posible investigación de campo sobre psicología y música. Todo ello aportará una información valiosa.
 
 
 ### Conclusiones y trabajo futuro
 
 
 * Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Problemas identificados
+Uno de los principales problemas es la enorme cantidad de música cofrade existente hoy en día, incluso en el panorama local de Granada. Por lo tanto, esto conlleva un proceso de investigación tanto para elegir las obras cómo para saber de dónde proceden. Además, de que es un proyecto que necesita mucho la participación del usuario para que tenga sentido.
 
+* Propuestas de mejora
+Creemos que aporta mucho valor a los usuarios, tanto a nivel informativo como de entretenimiento. Cuando alguien entra a la aplicación, descubre la música y comparte su experiencia, contribuye a que el proyecto tenga sentido y que pueda seguir mejorando. Ahora mismo, lo que hay disponible es un prototipo muy prematuro con la idea y que está abierto a cambios y mejoras a nivel de interfaz o extensión.
+
+* Posible interés del proyecto
+Como bien se ha mencionado anteriormente, la idea es que el proyecto se publique mediante iniciativa propia o gracias al interés empresarial o de algún usuario influyente que invierta tiempo, dinero y esfuerzo en hacerlo más grande. Creemos que el proyecto es interesante a nivel informativo y como posible herramienta de investigación, en este caso, sobre la música para desfiles procesionales.
 
 Referencias y recursos: 
 
