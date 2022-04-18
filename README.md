@@ -52,21 +52,24 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 **Necesidad/oportunidad** 
+La música forma parte del día a día y evoca toda clase de sentimientos y puede asociarse a determinadas cosas de la vida. La música cofrade se escucha cada vez más fuera del ámbito de la Semana Santa o los desfiles procesionales que suceden durante el año. Como consecuencia, hoy en día este tipo de composiciones se utilizan en producciones audiovisuales o como acompañamiento mientras se realiza una actividad cotidiana. Por lo tanto, una manera de promocionarla es mediante un minijuego que, además de aportar información, rompa los estereotipos acerca de lo que se cree de las marchas (composiciones musicales) de los desfiles procesionales. En este proyecto se exponen obras musicales propias y pertenecientes al repertorio de las bandas más populares de Granada con la posibilidad de que el usuario elija si le produce una sensación de alegría o tristeza, lo que sirve también como forma de recopilación de datos para un posible estudio de campo. 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta**
+Este proyecto es diferente y especial porque ofrece la posibilidad de informar, escuchar y descubrir música de una forma libre y divertida. Además, no solo sirve para la música procesional, sino para cualquier otro tipo.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**
+La idea del proyecto es llegar tanto al público joven o adulto interesado de primera mano en el fenómeno cofrade, como también a aquel que lo desconozca o que, siendo amante de la música en general, pueda llegar a tener un mínimo interés por las marchas procesionales.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
-
+**Estilo de narración**
+La narrativa es interactiva e intuitiva. Se trata de una interfaz ambientada en elementos de las hermandades y de la Semana Santa con: un botón de inicio que invita a entrar en el juego; otros botones para definir el sentimiento que produce la obra musical o para avanzar hacia adelante o hacia atrás; imágenes como la portada del álbum en el que se cuentra la composición de determinada banda; cuadros con información sobre la obra musical; y un reproductor automático para que la música comience a sonar cuando el usuario avanza de una escena a otra. En principio, opciones como "alegría" y "tristeza" pueden servir simplemente como "encuesta" para una investigación sobre la sensación o emoción que produce una marcha procesional, pero también pueden dar un resultado o frase graciosa al usuario cuando finalice el juego, algo como: "parece que un 60% de las marchas que has escuchado te ponen triste" o "el 80% de las marchas que has escuchado te sirven para motivarte a la hora de hacer deporte". Esto favorece el boba a boca y, con ello, el interés de los usuarios por usar el videojuego y comprobar el resultado final a la vez que se informan sobre la autoría y origen de las obras musicales.
 
 
 ### Etapa 2: Prototipar / productos 
+El proyecto está pensado como aplicación para dispositivos móviles o para insertarse dentro de una página o portal web. Sea de un modo u otro, la narrativa y el diseño de interfaz es similar para ambas versiones. Como forma de promoción, aumento de alcance o de espacio de atención al usuario, la intención es crear perfiles en redes sociales como Twitter e Instagram, pero también sería interesante la posibilidad de contar con personas influyentes o creadores de contenido que hablen y expongan la aplicación a través de plataformas como YouTube, Twitch o Tiktok.
+
+Como cualquier proyecto, es importante tener una imagen de marca a través de elementos como un logotipo, un banner o unos colores predominantes. En este caso, el logotipo y el banner se componen de elementos tan característicos de la Semana Santa española como son la imagen de un penitente o nazareno, típico en los cortejos de las procesiones; y algo que representa la música como es la clave de SOL. Luego, los colores predominantes del proyecto son el morado, el dorado y, en menor medida, el negro o el blanco.
+
+En cuanto a la financiación, todo depende de si se inicia el proyecto de forma autónoma mediante la publicación de la aplicación para dispositivos móviles en la Play Store o Apple Store; o de si lo adquiere una empresa que quiera insertarlo en su web o donde estime.
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
