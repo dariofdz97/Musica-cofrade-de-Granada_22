@@ -65,6 +65,8 @@ Como cualquier proyecto, es importante tener una imagen de marca a través de el
 
 En cuanto a la financiación, todo depende de si se inicia el proyecto de forma autónoma mediante la publicación de la aplicación para dispositivos móviles en la Play Store o Apple Store; o de si lo adquiere una empresa que quiera insertarlo en su web o donde estime.
 
+Click [aquí](https://cloud.protopie.io/p/9da359f6a4) para ver el prototipo con la idea.
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 A la hora de plantear una evaluación del proyecto, puede ser interesante el uso de las estadísticas de la plataforma o web en la que el proyecto esté disponible. La idea es saber cuántas personas están entrando; cómo se comportan mientras y después de usar la aplicación; y extraer unos resultados para una posible investigación de campo sobre psicología y música. Todo ello aportará una información valiosa.
