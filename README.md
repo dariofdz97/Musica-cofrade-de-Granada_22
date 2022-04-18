@@ -9,23 +9,24 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : La música cofrade de Granada
+**Titulo**: La música cofrade de Granada
 
 **Autor(es)** Lucía María López Peñalver y Darío Fernández del Moral
 
-**Resumen** : el proyecto La música cofrade de Granada consiste en un minijuego de preguntas en el cual escuchamos diferentes composiciones musicales de bandas granadinas de música procesional o para Semana Santa. En la interfaz suenan marchas alegres, épicas o tristes a la vez que se le pregunta al usuario qué sentimiento le evoca al escucharlas. De este modo, el usuario conoce diferentes estilos dentro de la música procesional rompiendo con el mito de que todas las obras son tristes o muy parecidas.
+**Resumen**
+El proyecto La música cofrade de Granada consiste en un minijuego de preguntas en el cual escuchamos diferentes composiciones musicales de bandas granadinas de música procesional o para Semana Santa. En la interfaz suenan marchas alegres, épicas o tristes a la vez que se le pregunta al usuario qué sentimiento le evoca al escucharlas. De este modo, el usuario conoce diferentes estilos dentro de la música procesional rompiendo con el mito de que todas las obras son tristes o muy parecidas.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): Sones cofrades para el mundo
+**Slogan** ¿Qué sientes cuando escuchas "música de Semana Santa"?
 
 **Hashtag** #musicacofradeGRX
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2022
 
-**Medios** (donde se tiene presencia): 
+**Medios**: 
 *  :octocat: (github url) 
 * Como luego se comentará más adelante, el proyecto está pensado para una versión móvil y/o una de escritorio. Para la primera posibilidad se contempla la publicación en la Play Store y Apple Store; y para la segunda su insercción una página o portal web propias o de alguna empresa. También la idea es disponer de redes sociales para la promoción, el tráfico y la atención al usuario, ya sea desde las propias de la empresa que apoye el proyecto o desde un Twitter e Instagram propio bajo un nombre de usuario como @musicacofradeapp.
 
