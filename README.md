@@ -43,11 +43,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+**Investigación de campo** Para la ideación del proyecto, se ha realizado una "lluvia de ideas" que combinase la información y la música de una forma original. En cuanto a la música y su autoría, se ha investigado en las páginas oficiales de las bandas para encontrar sus composiciones propias.
 
 **Necesidad/oportunidad** 
 La música forma parte del día a día y evoca toda clase de sentimientos y puede asociarse a determinadas cosas de la vida. La música cofrade se escucha cada vez más fuera del ámbito de la Semana Santa o los desfiles procesionales que suceden durante el año. Como consecuencia, hoy en día este tipo de composiciones se utilizan en producciones audiovisuales o como acompañamiento mientras se realiza una actividad cotidiana. Por lo tanto, una manera de promocionarla es mediante un minijuego que, además de aportar información, rompa los estereotipos acerca de lo que se cree de las marchas (composiciones musicales) de los desfiles procesionales. En este proyecto se exponen obras musicales propias y pertenecientes al repertorio de las bandas más populares de Granada con la posibilidad de que el usuario elija si le produce una sensación de alegría o tristeza, lo que sirve también como forma de recopilación de datos para un posible estudio de campo. 
