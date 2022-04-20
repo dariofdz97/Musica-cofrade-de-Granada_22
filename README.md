@@ -9,7 +9,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo**: *La música cofrade de Granada
+**Titulo**: *La música cofrade de Granada*
 
 **Autor(es)** Lucía María López Peñalver y Darío Fernández del Moral
 
@@ -21,7 +21,7 @@ Univesidad de Granada
 **Banner**: 
 ![Image text](https://github.com/dariofdz97/Musica-cofrade-de-Granada_22/blob/master/Banner%20m%C3%BAsica%20cofrade%20Granadina.png)
 
-**Slogan** *¿Qué sientes cuando escuchas "música de Semana Santa"?
+**Slogan** *¿Qué sientes cuando escuchas "música de Semana Santa"?*
 
 **Hashtag** #musicacofradeGRX
 
