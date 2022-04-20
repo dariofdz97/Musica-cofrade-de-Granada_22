@@ -9,11 +9,11 @@ Univesidad de Granada
 
 ----
 
-**Titulo**: *La música cofrade de Granada*
+**Titulo**: *Música cofrade granadina*
 
 **Autor(es)** Lucía María López Peñalver y Darío Fernández del Moral
 
-**Resumen**: la música cofrade de Granada consiste en un minijuego de preguntas en el cual escuchamos diferentes composiciones musicales de bandas granadinas de música procesional o para Semana Santa. En la interfaz suenan marchas alegres, épicas o tristes a la vez que se le pregunta al usuario qué sentimiento le evoca al escucharlas. De este modo, el usuario conoce diferentes estilos dentro de la música procesional rompiendo con el mito de que todas las obras son tristes o muy parecidas.
+**Resumen**: la música cofrade granadina consiste en un minijuego de preguntas en el cual escuchamos diferentes composiciones musicales de bandas granadinas de música procesional o para Semana Santa. En la interfaz suenan marchas alegres, épicas o tristes a la vez que se le pregunta al usuario qué sentimiento le evoca al escucharlas. De este modo, el usuario conoce diferentes estilos dentro de la música procesional rompiendo con el mito de que todas las obras son tristes o muy parecidas.
 
 **Logotipo** :  
 ![Image text](https://github.com/dariofdz97/Musica-cofrade-de-Granada_22/blob/master/Banner%20m%C3%BAsica%20cofrade%20Granadina%20(2).png)
@@ -25,7 +25,7 @@ Univesidad de Granada
 
 **Hashtag** #musicacofradeGRX
 
-**Licencia** (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** CC BY-NC (https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2022
 
