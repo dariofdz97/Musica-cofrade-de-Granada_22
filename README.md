@@ -15,7 +15,9 @@ Univesidad de Granada
 
 **Resumen**: la música cofrade de Granada consiste en un minijuego de preguntas en el cual escuchamos diferentes composiciones musicales de bandas granadinas de música procesional o para Semana Santa. En la interfaz suenan marchas alegres, épicas o tristes a la vez que se le pregunta al usuario qué sentimiento le evoca al escucharlas. De este modo, el usuario conoce diferentes estilos dentro de la música procesional rompiendo con el mito de que todas las obras son tristes o muy parecidas.
 
-**logotipo** :  ![Image text](https://github.com/dariofdz97/Musica-cofrade-de-Granada_22/blob/master/Logo%20m%C3%BAsica%20cofrade%20Granadina.png)
+**Logotipo** :  ![Image text](https://github.com/dariofdz97/Musica-cofrade-de-Granada_22/blob/master/Logo%20m%C3%BAsica%20cofrade%20Granadina.png)
+
+**Banner**: ![Image text](https://github.com/dariofdz97/Musica-cofrade-de-Granada_22/blob/master/Banner%20m%C3%BAsica%20cofrade%20Granadina.png)
 
 **Slogan** *¿Qué sientes cuando escuchas "música de Semana Santa"?
 
