@@ -1,4 +1,4 @@
-## (Minijuego: la música cofrade de Granada)  
+## (Minijuego: Música cofrade granadina)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
