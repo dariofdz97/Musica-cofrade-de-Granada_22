@@ -77,15 +77,15 @@ A la hora de plantear una evaluación del proyecto, puede ser interesante el uso
 
 
 ### Conclusiones y trabajo futuro
-* Grado de consecución del proyecto 
-* Problemas identificados
-Uno de los principales problemas es la enorme cantidad de música cofrade existente hoy en día, incluso en el panorama local de Granada. Por lo tanto, esto conlleva un proceso de investigación tanto para elegir las obras cómo para saber de dónde proceden. Además, de que es un proyecto que necesita mucho la participación del usuario para que tenga sentido.
+* Grado de consecución del proyecto
+* Problemas identificados:
+uno de los principales problemas es la enorme cantidad de música cofrade existente hoy en día, incluso en el panorama local de Granada. Por lo tanto, esto conlleva un proceso de investigación tanto para elegir las obras cómo para saber de dónde proceden. Además, de que es un proyecto que necesita mucho la participación del usuario para que tenga sentido.
 
-* Propuestas de mejora
-Creemos que aporta mucho valor a los usuarios, tanto a nivel informativo como de entretenimiento. Cuando alguien entra a la aplicación, descubre la música y comparte su experiencia, contribuye a que el proyecto tenga sentido y que pueda seguir mejorando. Ahora mismo, lo que hay disponible es un prototipo muy prematuro con la idea y que está abierto a cambios y mejoras a nivel de interfaz o extensión.
+* Propuestas de mejora:
+creemos que aporta mucho valor a los usuarios, tanto a nivel informativo como de entretenimiento. Cuando alguien entra a la aplicación, descubre la música y comparte su experiencia, contribuye a que el proyecto tenga sentido y que pueda seguir mejorando. Ahora mismo, lo que hay disponible es un prototipo muy prematuro con la idea y que está abierto a cambios y mejoras a nivel de interfaz o extensión.
 
-* Posible interés del proyecto
-Como bien se ha mencionado anteriormente, la idea es que el proyecto se publique mediante iniciativa propia o gracias al interés empresarial o de algún usuario influyente que invierta tiempo, dinero y esfuerzo en hacerlo más grande. Creemos que el proyecto es interesante a nivel informativo y como posible herramienta de investigación, en este caso, sobre la música para desfiles procesionales.
+* Posible interés del proyecto:
+como bien se ha mencionado anteriormente, la idea es que el proyecto se publique mediante iniciativa propia o gracias al interés empresarial o de algún usuario influyente que invierta tiempo, dinero y esfuerzo en hacerlo más grande. Creemos que el proyecto es interesante a nivel informativo y como posible herramienta de investigación, en este caso, sobre la música para desfiles procesionales.
 
 Referencias y recursos: 
 
